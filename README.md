@@ -1,6 +1,6 @@
 # Weak Driver Problem
 
-Made for introduction to computer science classes at Mathematics MIMUW in the winter semester of 2019/2020.
+Made for Mathematics introduction to computer science classes at MIMUW in the winter semester of 2019/2020.
 
 ## Usage:
 Compile the file, e.g. with gcc:
@@ -72,5 +72,9 @@ Kolejne kroki to:
  Jestes na miejscu!
 
         ***** MAPA *****
-╔════════════╗                                                     ║ +  S  +  M ║                                                                ║ +  +       ║                                                               ║            ║                                                                ╚════════════╝
+╔════════════╗
+║ +  S  +  M ║
+║ +  +       ║
+║            ║
+╚════════════╝
 ```
